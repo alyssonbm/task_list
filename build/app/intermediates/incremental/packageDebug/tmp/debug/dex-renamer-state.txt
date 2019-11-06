@@ -1,4 +1,4 @@
-#Tue Nov 05 23:35:13 BRT 2019
+#Wed Nov 06 05:55:43 BRT 2019
 base.0=/home/diego/development/Projetos/task_list/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
